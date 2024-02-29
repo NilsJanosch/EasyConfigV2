@@ -45,7 +45,7 @@ This approach has the advantage that you don't have to load anything explicitly.
 @ConfigProperty(file = "config.json")
 public class ExampleConfig {
     
-    @Config(name = "exampleValue", min = 0, max = 100)
+    @Config(min = 0, max = 100)
     private int exampleValue;
     
     // Other configuration fields and methods
