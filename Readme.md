@@ -57,4 +57,4 @@ Contributions are welcome! Feel free to raise issues or submit pull requests to 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/NilsJanosch/EasyConfigV2/LICENSE).
+This project is licensed under the [MIT License](https://github.com/NilsJanosch/EasyConfigV2/blob/master/LICENSE).
