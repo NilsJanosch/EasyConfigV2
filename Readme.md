@@ -1,8 +1,7 @@
 # EasyConfigV2
-[![GitHub stars](https://img.shields.io/github/stars/NilsJanosch/EasyConfig?style=for-the-badge&logo=github)](https://github.com/NilsJanosch/EasyConfigV2/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/NilsJanosch/EasyConfig?style=for-the-badge&logo=github)](https://github.com/NilsJanosch/EasyConfigV2/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/NilsJanosch/EasyConfig?style=for-the-badge&logo=github)](https://github.com/NilsJanosch/EasyConfigV2/issues)
-
+[![GitHub stars](https://img.shields.io/github/stars/NilsJanosch/EasyConfigV2?style=for-the-badge&logo=github)](https://github.com/NilsJanosch/EasyConfigV2/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/NilsJanosch/EasyConfigV2?style=for-the-badge&logo=github)](https://github.com/NilsJanosch/EasyConfigV2/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/NilsJanosch/EasyConfigV2?style=for-the-badge&logo=github)](https://github.com/NilsJanosch/EasyConfigV2/issues)
 ## Made with
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
